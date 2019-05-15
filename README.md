@@ -87,3 +87,5 @@ CODE = {' ': ' ',
 ### Resources
 
 https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/morse_code/
+
+https://www.linuxtrainingacademy.com/determine-public-ip-address-command-line-curl/
